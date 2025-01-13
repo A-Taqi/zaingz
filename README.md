@@ -11,4 +11,4 @@ Zain GenZ
 - Ayah Al Bahar
 - Sara AlAwwad
 - Noura Alayoub
-- Dalal
+- Dalal Al Ajmi
