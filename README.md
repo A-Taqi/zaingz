@@ -1,5 +1,5 @@
 # Class
-Zain GenZ
+Zain GenZ + quickpay
 
 # Instructors
 - Ali Taqi
