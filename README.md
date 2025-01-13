@@ -12,3 +12,4 @@ Zain GenZ
 - Sara AlAwwad
 - Noura Alayoub
 - Dalal Al Ajmi
+- Sami
