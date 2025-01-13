@@ -6,3 +6,4 @@ Zain GenZ
 
 # Students
 - Rawan Jeraq
+- Sami AlQaddoumi
