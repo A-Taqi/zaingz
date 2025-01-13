@@ -5,8 +5,8 @@ Zain GenZ
 - Ali Taqi
 
 # Students
-- Rawan Jeraq
 - Sami AlQaddoumi
+- Rawan Jeraq
 - Sama Arrar
 - Ayah Al Bahar
 - Sara AlAwwad
